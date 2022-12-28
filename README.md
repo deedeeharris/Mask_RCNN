@@ -1,2 +1,2 @@
 # Mask_RCNN
-Mask_RCNN - run on image
+Mask_RCNN - an example how-to get a prediction from a pre-trained model.

@@ -4,8 +4,7 @@ ipython==8.8.0
 keras==2.9.0
 matplotlib==3.2.2
 numpy==1.19.5
-scikit_image==0.18.3
+scikit-image==0.18.3
 scipy==1.7.3
-skimage==0.0
 tensorflow==2.5.0
 git+https://github.com/deedeeharris/Mask_RCNN

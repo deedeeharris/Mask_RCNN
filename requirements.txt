@@ -7,4 +7,5 @@ numpy==1.19.5
 scikit-image==0.18.3
 scipy==1.7.3
 tensorflow==2.5.0
+gdown
 git+https://github.com/deedeeharris/Mask_RCNN
